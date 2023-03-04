@@ -1,2 +1,12 @@
-# ¡Hola! Soy Germán Aguirre :wave:
-Soy un desarrollador fullstack en crecimiento, destaco mi dedicación al aprendizaje constante, me encanta desarrollar aplicaciones web que solucionen algún problema específico.
+
+# Hola, Soy Germán Aguirre! 👋
+
+
+## 🚀 Acerca de mi
+Soy desarrollador fullstack jr. Desataco mi dedicación al aprendizaje y mi pasión por el desarrollo web.
+
+
+## Stack de tenologías
+
+**Cliente:** Angular, Bootstrap, JavaScript Vanilla  
+**Servidor:** Java, Spring Boot, Hibernate
